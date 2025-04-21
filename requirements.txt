@@ -7,3 +7,4 @@ requests==2.31.0       # To communicate with Ollama API
 # Optional (for future expansion)
 numpy==1.26.4          # If needed for dungeon generation
 
+
