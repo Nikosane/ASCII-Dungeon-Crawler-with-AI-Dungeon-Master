@@ -1,0 +1,19 @@
+# Predefined room templates
+ROOM_TEMPLATES = [
+    {
+        "description": "A damp chamber with mossy walls and a cracked floor.",
+        "features": ["Moss", "Cracks", "Cold air"]
+    },
+    {
+        "description": "A wide hall lit by flickering torches.",
+        "features": ["Torches", "Dusty floor", "Ancient carvings"]
+    },
+    {
+        "description": "A small shrine covered in cobwebs.",
+        "features": ["Altar", "Cobwebs", "Faint chanting"]
+    },
+    {
+        "description": "An abandoned armory with rusted weapons.",
+        "features": ["Rusty swords", "Broken shields", "Collapsed shelves"]
+    }
+]
